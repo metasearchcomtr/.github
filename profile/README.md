@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile/logo.png" alt="metasearch" width="120" />
+  <img src="./logo.png" alt="metasearch" width="120" />
 </p>
 
 <h1 align="center">metasearch</h1>
